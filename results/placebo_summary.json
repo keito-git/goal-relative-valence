@@ -1,0 +1,51 @@
+{
+ "falcon3_7b_it": {
+  "n": 80,
+  "flip_label_maxabs": 0.9988273900959378,
+  "flip_final_maxabs": 1.0595913381382647,
+  "placebo_label_maxabs": 0.05615088669619769,
+  "placebo_final_maxabs": 0.05900726204094865
+ },
+ "granite31_8b_it": {
+  "n": 80,
+  "flip_label_maxabs": 0.9989957029492051,
+  "flip_final_maxabs": 0.8479708809909617,
+  "placebo_label_maxabs": 0.015025092732731792,
+  "placebo_final_maxabs": 0.1961866173669523
+ },
+ "mistral_7b_it": {
+  "n": 80,
+  "flip_label_maxabs": 0.9999326786363424,
+  "flip_final_maxabs": 0.991148013481736,
+  "placebo_label_maxabs": 0.01739370402416542,
+  "placebo_final_maxabs": 0.00797988490101715
+ },
+ "phi4": {
+  "n": 80,
+  "flip_label_maxabs": 1.0022638704627664,
+  "flip_final_maxabs": 0.9976929556345739,
+  "placebo_label_maxabs": 0.0568361808596959,
+  "placebo_final_maxabs": 0.05207118686543175
+ },
+ "qwen25_14b_it": {
+  "n": 80,
+  "flip_label_maxabs": 1.0020415118639454,
+  "flip_final_maxabs": 1.0001266943856004,
+  "placebo_label_maxabs": 0.029721988095809886,
+  "placebo_final_maxabs": 0.059174680484514484
+ },
+ "qwen25_32b_it": {
+  "n": 80,
+  "flip_label_maxabs": 1.0012332043267784,
+  "flip_final_maxabs": 1.0004811771078181,
+  "placebo_label_maxabs": 0.011529007371603523,
+  "placebo_final_maxabs": 0.16287904542566675
+ },
+ "qwen25_7b_it": {
+  "n": 80,
+  "flip_label_maxabs": 1.0000338708585983,
+  "flip_final_maxabs": 0.9898508722731651,
+  "placebo_label_maxabs": 0.023262745910098984,
+  "placebo_final_maxabs": 0.12380691592192397
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "0.80_0.75": {
+  "n": 8,
+  "late_gt_mid": 8,
+  "late_gt_half": 8,
+  "bsurf_pos": 8,
+  "spec_location": "8/8",
+  "spec_material": "6/6",
+  "gating": "8/8",
+  "key": 7
+ },
+ "0.80_0.80": {
+  "n": 8,
+  "late_gt_mid": 8,
+  "late_gt_half": 8,
+  "bsurf_pos": 8,
+  "spec_location": "7/7",
+  "spec_material": "6/6",
+  "gating": "8/8",
+  "key": 7
+ },
+ "0.80_0.85": {
+  "n": 8,
+  "late_gt_mid": 8,
+  "late_gt_half": 8,
+  "bsurf_pos": 8,
+  "spec_location": "5/5",
+  "spec_material": "4/4",
+  "gating": "7/7",
+  "key": 7
+ },
+ "0.85_0.75": {
+  "n": 7,
+  "late_gt_mid": 7,
+  "late_gt_half": 7,
+  "bsurf_pos": 7,
+  "spec_location": "7/7",
+  "spec_material": "5/5",
+  "gating": "7/7",
+  "key": 6
+ },
+ "0.85_0.80": {
+  "n": 7,
+  "late_gt_mid": 7,
+  "late_gt_half": 7,
+  "bsurf_pos": 7,
+  "spec_location": "6/6",
+  "spec_material": "5/5",
+  "gating": "7/7",
+  "key": 6
+ },
+ "0.85_0.85": {
+  "n": 7,
+  "late_gt_mid": 7,
+  "late_gt_half": 7,
+  "bsurf_pos": 7,
+  "spec_location": "4/4",
+  "spec_material": "3/3",
+  "gating": "6/6",
+  "key": 6
+ },
+ "0.90_0.75": {
+  "n": 7,
+  "late_gt_mid": 7,
+  "late_gt_half": 7,
+  "bsurf_pos": 7,
+  "spec_location": "7/7",
+  "spec_material": "5/5",
+  "gating": "7/7",
+  "key": 6
+ },
+ "0.90_0.80": {
+  "n": 7,
+  "late_gt_mid": 7,
+  "late_gt_half": 7,
+  "bsurf_pos": 7,
+  "spec_location": "6/6",
+  "spec_material": "5/5",
+  "gating": "7/7",
+  "key": 6
+ },
+ "0.90_0.85": {
+  "n": 7,
+  "late_gt_mid": 7,
+  "late_gt_half": 7,
+  "bsurf_pos": 7,
+  "spec_location": "4/4",
+  "spec_material": "3/3",
+  "gating": "6/6",
+  "key": 6
+ },
+ "family": {
+  "Qwen2.5": {
+   "late_minus_mid_gen": 0.7520621676200533,
+   "late_gen": 0.8927890608078838,
+   "bsurf": 6.315922737121582,
+   "tg_eval": 0.8435964573857483,
+   "tg_nonstake": 0.26456805014078405,
+   "key": 0.8256019330734242
+  },
+  "Mistral": {
+   "late_minus_mid_gen": 0.6636762152777778,
+   "late_gen": 1.0,
+   "bsurf": 4.044720649719238,
+   "tg_eval": 1.0,
+   "tg_nonstake": 0.5154976851851852,
+   "key": 0.29606095679012345
+  },
+  "Falcon3": {
+   "late_minus_mid_gen": 0.8013530643738977,
+   "late_gen": 0.9546913580246914,
+   "bsurf": 2.9569544792175293,
+   "tg_eval": 0.9773013117283951,
+   "tg_nonstake": 0.33926504629629634,
+   "key": 0.6842303240740741
+  },
+  "Granite": {
+   "late_minus_mid_gen": 0.4945969308469307,
+   "late_gen": 0.9976682692307691,
+   "bsurf": 2.9184765815734863,
+   "tg_eval": 0.9999252136752137,
+   "tg_nonstake": 0.3448397435897436,
+   "key": 0.758770032051282
+  },
+  "Phi-4": {
+   "late_minus_mid_gen": 0.45525252525252535,
+   "late_gen": 0.8800000000000001,
+   "bsurf": 3.149552822113037,
+   "tg_eval": 0.9753699252136753,
+   "tg_nonstake": 0.32523504273504267,
+   "key": 0.7068910256410257
+  }
+ }
+}

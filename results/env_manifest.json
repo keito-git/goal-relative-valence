@@ -1,0 +1,11 @@
+{
+ "python": "3.10.12",
+ "torch": "2.6.0+cu124",
+ "cuda": "12.4",
+ "transformers": "4.51.0",
+ "scikit-learn": "1.2.0",
+ "scipy": "1.11.4",
+ "numpy": "1.26.4",
+ "datasets": "5.0.1",
+ "gpu": "NVIDIA H100 NVL, 570.211.01"
+}
