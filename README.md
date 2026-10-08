@@ -20,7 +20,7 @@ pip install -r requirements.txt
 export GOALVAL_ROOT=$(pwd)        # data/ and results/ are read from and written to this folder
 ```
 
-All experiments ran on a single NVIDIA H100 NVL GPU (95 GB) with forward passes only, in about 5 GPU-hours in total.
+All experiments ran on a single NVIDIA H100 NVL GPU (95 GB) with forward passes only, in about 6 GPU-hours in total.
 
 ## Reproducing the figures and tables (no GPU needed)
 
